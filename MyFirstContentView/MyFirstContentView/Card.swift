@@ -13,22 +13,26 @@ struct Card: View {
     
     var body: some View {
         ZStack {
+            Color.orange
+                .opacity(0.5)
+                .edgesIgnoringSafeArea(.all)
             VStack {
                 Text(thetitle)
                     .font(.system(size: 30, weight: .heavy))
-                    .foregroundColor(.red)
+                    .foregroundColor(.white)
                     .padding(.top, 60)
                     .padding(.horizontal, 20)
                     .offset(x: 0, y: -40)
                 Image(theimage)
+                    .resizable()
+                    .scaledToFit()
                     .padding(.bottom, 100)
+                    .frame(width: 400)
             }
-            .background(Color.black)
+            .background((LinearGradient(gradient: Gradient(colors: [Color("Orange"), Color("Red")]), startPoint: .topLeading, endPoint: .bottomTrailing)))
             
         }
-        Color.white
-            .opacity(0.2)
-            .edgesIgnoringSafeArea(.all)
+        
     }
 }
 
