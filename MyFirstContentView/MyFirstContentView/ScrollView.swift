@@ -16,14 +16,17 @@ struct ScrollViewer: View {
                         thetitle: "Grand Canyon",
                         theimage: "grandcanyon"
                     )
+                    Divider()
                     Card (
                         thetitle: "Grand Canyon",
                         theimage: "grandcanyon"
                     )
+                    Divider()
                     Card (
                         thetitle: "Grand Canyon",
                         theimage: "grandcanyon"
                     )
+                    Divider()
                     Card (
                         thetitle: "Grand Canyon",
                         theimage: "grandcanyon"
