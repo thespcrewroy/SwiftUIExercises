@@ -9,56 +9,37 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Button {
-            print("SF Image button tapped")
-        } label: {
-            Label (
-                title: {
-                    Text("SF Image")
-                        .fontWeight(.semibold)
-                        .font(.title)
-                },
-                icon: {
-                    Image(systemName: "square.and.arrow.up")
-                        .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            VStack {
+                NavigationLink(destination: SFImage()) {
+                    HStack {
+                        Image(systemName: "star") // Replace "star" with the name of your SF image
+                            .foregroundColor(.white)
+                            .padding(.leading, 10) // Adjust the padding as needed
+                        Text("SF Image")
+                    }
                 }
-            )
-        }
-        .buttonStyle(GradientBackgroundStyle())
-        
-        Button {
-            print("ScrollView button tapped")
-        } label: {
-            Label (
-                title: {
-                    Text("ScrollView")
-                        .fontWeight(.semibold)
-                        .font(.title)
-                },
-                icon: {
-                    Image(systemName: "square.and.pencil")
-                        .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+                .buttonStyle(GradientBackgroundStyle())
+                NavigationLink(destination: ScrollViewer()) {
+                    HStack {
+                        Image(systemName: "star") // Replace "star" with the name of your SF image
+                            .foregroundColor(.white)
+                            .padding(.leading, 10) // Adjust the padding as needed
+                        Text("ScrollView")
+                    }
                 }
-            )
-        }
-        .buttonStyle(GradientBackgroundStyle())
-        
-        Button {
-            print("Crazy Image button tapped")
-        } label: {
-            Label (
-                title: {
-                    Text("Crazy Image")
-                        .fontWeight(.semibold)
-                        .font(.title)
-                },
-                icon: {
-                    Image(systemName: "trash")
-                        .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+                .buttonStyle(GradientBackgroundStyle())
+                NavigationLink(destination: CrazyImage()) {
+                    HStack {
+                        Image(systemName: "star") // Replace "star" with the name of your SF image
+                            .foregroundColor(.white)
+                            .padding(.leading, 10) // Adjust the padding as needed
+                        Text("CrazyImage")
+                    }
                 }
-            )
+                .buttonStyle(GradientBackgroundStyle())
+            }
         }
-        .buttonStyle(GradientBackgroundStyle())
     }
 }
 
@@ -66,6 +47,8 @@ struct GradientBackgroundStyle: ButtonStyle {
     
     func makeBody(configuration: Self.Configuration) -> some View {
         configuration.label
+            .fontWeight(.semibold)
+            .font(.title)
             .frame(minWidth: /*@START_MENU_TOKEN@*/0/*@END_MENU_TOKEN@*/, maxWidth: .infinity)
             .padding()
             .background(LinearGradient(gradient: Gradient(colors: [Color("Orange"), Color("Red")]), startPoint: .topLeading, endPoint: .bottomTrailing))
