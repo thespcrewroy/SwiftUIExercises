@@ -10,6 +10,7 @@ import SwiftUI
 struct Card: View {
     var thetitle: String
     var theimage: String
+    var thedescription: String
     
     var body: some View {
         ZStack {
@@ -28,6 +29,12 @@ struct Card: View {
                     .scaledToFit()
                     .padding(.bottom, 100)
                     .frame(width: 400)
+                Text(thedescription)
+                .font(.title)
+                        .fontWeight(.black)
+                        .foregroundColor(.white)
+                        .lineLimit(3)
+                        .minimumScaleFactor(0.5)
             }
             .background((LinearGradient(gradient: Gradient(colors: [Color("Orange"), Color("Red")]), startPoint: .topLeading, endPoint: .bottomTrailing)))
             
@@ -40,7 +47,8 @@ struct Card_Previews: PreviewProvider {
     static var previews: some View {
         Card(
             thetitle: "Grand Canyon",
-            theimage: "grandcanyon"
+            theimage: "grandcanyon",
+            thedescription: "I almost died walking off the edge when I was just a baby. It was a crazy experience."
         )
     }
 }
