@@ -9,7 +9,11 @@ import SwiftUI
 
 struct SFImage: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+         Image(systemName: "trash", variableValue: 0.6)
+            .font(.system(size: 100))
+            .symbolRenderingMode(.palette)
+            .foregroundStyle(.indigo)
+            .font(.largeTitle)
     }
 }
 
