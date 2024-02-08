@@ -14,12 +14,14 @@ struct ScrollViewer: View {
                 Group {
                     Card (
                         thetitle: "Grand Canyon",
-                        theimage: "grandcanyon"
+                        theimage: "grandcanyon",
+                        thedescription: "I almost died walking off the edge when I was just a baby. It was a crazy experience."
                     )
                     Divider()
                     Card (
                         thetitle: "Grand Canyon",
-                        theimage: "grandcanyon"
+                        theimage: "grandcanyon",
+                        thedescription: "I almost died walking off the edge when I was just a baby. It was a crazy experience."
                     )
                     Divider()
                     Card (
