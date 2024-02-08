@@ -19,19 +19,21 @@ struct ScrollViewer: View {
                     )
                     Divider()
                     Card (
-                        thetitle: "Grand Canyon",
-                        theimage: "grandcanyon",
-                        thedescription: "I almost died walking off the edge when I was just a baby. It was a crazy experience."
+                        thetitle: "Chucky Cheese",
+                        theimage: "chucky",
+                        thedescription: "I was relly scared of Chucky as a kid. Anamatronics are one of the creepiest inventions ever."
                     )
                     Divider()
                     Card (
-                        thetitle: "Grand Canyon",
-                        theimage: "grandcanyon"
+                        thetitle: "Tree House",
+                        theimage: "treehouse"
+                        thedescription: "My dad built a tree house for me and my friends. We made a council that help meetings there."
                     )
                     Divider()
                     Card (
-                        thetitle: "Grand Canyon",
-                        theimage: "grandcanyon"
+                        thetitle: "Plane",
+                        theimage: "plane"
+                        thedescription: "I love flying to different countries. Once, me and my family traveled to Peru and saw Machu Picchu to see their famous terraces."
                     )
                 }
             }
