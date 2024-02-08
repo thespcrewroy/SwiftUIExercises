@@ -30,11 +30,11 @@ struct Card: View {
                     .padding(.bottom, 100)
                     .frame(width: 400)
                 Text(thedescription)
-                .font(.title)
-                        .fontWeight(.black)
-                        .foregroundColor(.white)
-                        .lineLimit(3)
-                        .minimumScaleFactor(0.5)
+                    .font(.title)
+                    .fontWeight(.black)
+                    .foregroundColor(.white)
+                    .minimumScaleFactor(0.5)
+                    .offset(x:0 , y: 60)
             }
             .background((LinearGradient(gradient: Gradient(colors: [Color("Orange"), Color("Red")]), startPoint: .topLeading, endPoint: .bottomTrailing)))
             
