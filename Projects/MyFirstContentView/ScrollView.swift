@@ -26,13 +26,13 @@ struct ScrollViewer: View {
                     Divider()
                     Card (
                         thetitle: "Tree House",
-                        theimage: "treehouse"
+                        theimage: "treehouse",
                         thedescription: "My dad built a tree house for me and my friends. We made a council that help meetings there."
                     )
                     Divider()
                     Card (
                         thetitle: "Plane",
-                        theimage: "plane"
+                        theimage: "plane",
                         thedescription: "I love flying to different countries. Once, me and my family traveled to Peru and saw Machu Picchu to see their famous terraces."
                     )
                 }

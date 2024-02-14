@@ -21,6 +21,7 @@ struct Card: View {
                 Text(thetitle)
                     .font(.system(size: 30, weight: .heavy))
                     .foregroundColor(.white)
+                    .multilineTextAlignment(.center)
                     .padding(.top, 60)
                     .padding(.horizontal, 20)
                     .offset(x: 0, y: -40)
@@ -30,14 +31,15 @@ struct Card: View {
                     .padding(.bottom, 100)
                     .frame(width: 400)
                 Text(thedescription)
-                    .font(.title)
+                    .font(.system(size: 20))
                     .fontWeight(.black)
                     .foregroundColor(.white)
-                    .minimumScaleFactor(0.5)
-                    .offset(x:0 , y: 60)
+                    .multilineTextAlignment(.center)
+                    .padding(.horizontal)
+                    .offset(x:0 , y: -30)
+                    .frame(width: 400)
             }
-            .background((LinearGradient(gradient: Gradient(colors: [Color("Orange"), Color("Red")]), startPoint: .topLeading, endPoint: .bottomTrailing)))
-            
+            .background((LinearGradient(gradient: Gradient(colors: [Color("Orange"), Color("Red")]), startPoint: .topLeading, endPoint: .bottomTrailing)))            
         }
         
     }
@@ -49,6 +51,8 @@ struct Card_Previews: PreviewProvider {
             thetitle: "Grand Canyon",
             theimage: "grandcanyon",
             thedescription: "I almost died walking off the edge when I was just a baby. It was a crazy experience."
+           
         )
+      
     }
 }

@@ -16,9 +16,8 @@
 		0972CD592B71674E004E69FD /* MyFirstContentViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972CD582B71674E004E69FD /* MyFirstContentViewUITestsLaunchTests.swift */; };
 		0972CD662B7169FD004E69FD /* SFImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972CD652B7169FD004E69FD /* SFImage.swift */; };
 		0972CD682B716A1D004E69FD /* ScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972CD672B716A1D004E69FD /* ScrollView.swift */; };
-		0972CD6C2B716A4E004E69FD /* CrazyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972CD6B2B716A4E004E69FD /* CrazyImage.swift */; };
 		0972CD6E2B716EE0004E69FD /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972CD6D2B716EE0004E69FD /* Card.swift */; };
-		0972CD702B71716E004E69FD /* HorizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972CD6F2B71716E004E69FD /* HorizView.swift */; };
+		333A9A862B7D4A36007D6F55 /* CrazyImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 333A9A852B7D4A36007D6F55 /* CrazyImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,9 +50,8 @@
 		0972CD582B71674E004E69FD /* MyFirstContentViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstContentViewUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		0972CD652B7169FD004E69FD /* SFImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SFImage.swift; sourceTree = "<group>"; };
 		0972CD672B716A1D004E69FD /* ScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollView.swift; sourceTree = "<group>"; };
-		0972CD6B2B716A4E004E69FD /* CrazyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrazyImage.swift; sourceTree = "<group>"; };
 		0972CD6D2B716EE0004E69FD /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
-		0972CD6F2B71716E004E69FD /* HorizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizView.swift; sourceTree = "<group>"; };
+		333A9A852B7D4A36007D6F55 /* CrazyImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrazyImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,10 +105,9 @@
 				0972CD3B2B71674D004E69FD /* MyFirstContentViewApp.swift */,
 				0972CD3D2B71674D004E69FD /* ContentView.swift */,
 				0972CD672B716A1D004E69FD /* ScrollView.swift */,
-				0972CD6F2B71716E004E69FD /* HorizView.swift */,
-				0972CD6B2B716A4E004E69FD /* CrazyImage.swift */,
 				0972CD6D2B716EE0004E69FD /* Card.swift */,
 				0972CD652B7169FD004E69FD /* SFImage.swift */,
+				333A9A852B7D4A36007D6F55 /* CrazyImage.swift */,
 				0972CD3F2B71674E004E69FD /* Assets.xcassets */,
 				0972CD412B71674E004E69FD /* Preview Content */,
 			);
@@ -276,9 +273,8 @@
 				0972CD6E2B716EE0004E69FD /* Card.swift in Sources */,
 				0972CD682B716A1D004E69FD /* ScrollView.swift in Sources */,
 				0972CD3E2B71674D004E69FD /* ContentView.swift in Sources */,
-				0972CD702B71716E004E69FD /* HorizView.swift in Sources */,
 				0972CD3C2B71674D004E69FD /* MyFirstContentViewApp.swift in Sources */,
-				0972CD6C2B716A4E004E69FD /* CrazyImage.swift in Sources */,
+				333A9A862B7D4A36007D6F55 /* CrazyImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
