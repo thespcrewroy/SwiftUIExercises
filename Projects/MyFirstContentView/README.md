@@ -1,7 +1,4 @@
 # My First Content View
-* Features a content view with styled links to three additional views
-* Utilizes
-    * Horizontal ScrollView
-    * SF Symbol
-    * Crazy Drawing
-    * Button Linkers
+
+Features a ContentView with styled links to three additional views
+![Alt text](styledlinks.jpg?raw=true "Optional Title")
