@@ -10,7 +10,7 @@
 * [StateVars](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw05-statevars)
 * [Slider](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw06-slider)
 * [PieChart](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw07-piechart)
-* [Lists[(https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw08-lists)
+* [Lists](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw08-lists)
 * [Json](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw09-json)
 
 ## "Mastering SwiftUI" Excersises
