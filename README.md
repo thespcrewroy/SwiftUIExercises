@@ -1,12 +1,5 @@
 # Swift Projects
-## My First Content View
-* [hyperlink](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/MyFirstContentView)
-* Features a content view with styled links to three additional views
-* Utilizes
-    * Horizontal ScrollView
-    * SF Symbol
-    * Crazy Drawing
-    * Button Linkers
+* [My First Content View](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/MyFirstContentView)
 ## Random Trivia API
 * [hyperlink](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/RandomTriviaAPI)
 * Random Trivia game
