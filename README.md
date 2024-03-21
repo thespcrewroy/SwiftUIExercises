@@ -1,7 +1,7 @@
 ## MiniProjects
 * [My First Content View](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/MyFirstContentView)
 * [Random Trivia API](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/RandomTriviaAPI)
-
+  
 ## Homeworks
 * [Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw01-text)
 * [Stacks](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw02-stacks)
@@ -23,3 +23,10 @@
 * [State](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIState)
 * [Shapes](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIShapes)
 * [Animations](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIAnimations)
+___
+## Future (Over the Summer):
+* Add Readme to all homeworks/projects
+* Make videos for each project to add to the Readme
+* Look at other people's Readme + Readme of massive open-source projects
+    * Learn about good Readme style and techniques
+    * Learn about giving instructions to users on how they can run my code
