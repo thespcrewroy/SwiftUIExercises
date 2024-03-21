@@ -1,7 +1,9 @@
+# SwiftUIExcercises
+---
 ## MiniProjects
 * [My First Content View](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/MyFirstContentView)
 * [Random Trivia API](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/RandomTriviaAPI)
-  
+---
 ## Homeworks
 * [Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw01-text)
 * [Stacks](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw02-stacks)
@@ -12,7 +14,7 @@
 * [PieChart](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw07-piechart)
 * [Lists](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw08-lists)
 * [Json](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw09-json)
-
+---
 ## "Mastering SwiftUI" Excersises
 * [Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIText)
 * [Image](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIImage)
@@ -23,7 +25,7 @@
 * [State](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIState)
 * [Shapes](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIShapes)
 * [Animations](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIAnimations)
-___
+---
 ## Future (Over the Summer):
 * Add Readme to all homeworks/projects
 * Make videos for each project to add to the Readme
