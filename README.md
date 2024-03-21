@@ -25,7 +25,7 @@
 * [State](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIState)
 * [Shapes](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIShapes)
 * [Animations](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIAnimations)
-* [Maps] (https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIMaps)
+* [Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIMaps)
 ---
 ## Future (Over the Summer):
 * Add Readme to all homeworks/projects
