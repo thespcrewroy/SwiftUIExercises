@@ -15,7 +15,7 @@
 * [Lists](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw08-lists)
 * [Json](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw09-json)
 ---
-## "Mastering SwiftUI" Excersises
+## "Mastering SwiftUI" Excercises
 * [Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIText)
 * [Image](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIImage)
 * [Stacks](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIStacks)
@@ -25,6 +25,8 @@
 * [State](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIState)
 * [Shapes](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIShapes)
 * [Animations](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIAnimations)
+---
+## "Apple Developer" Excercises
 * [Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIMaps)
 ---
 ## Future (Over the Summer):
