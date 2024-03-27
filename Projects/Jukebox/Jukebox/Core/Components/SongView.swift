@@ -21,6 +21,7 @@ struct SongView: View {
     var soundFile: String = "angel.m4a"
     
     @Binding var sliderValue: Double
+    @Binding var isPlaying: Bool // Declare isPlaying as a binding
     
     /// A view representing a song setup.
     ///
@@ -37,6 +38,7 @@ struct SongView: View {
             Button(action: {
                 playsound(thesong: soundFile)
                 sliderValue = 0
+                isPlaying = true
             }) {
                 VStack {
                     /// displays the name of the artist
@@ -67,6 +69,7 @@ struct SongView_Previews: PreviewProvider {
                  songTitle: "Send Me An Angel",
                  artistImage: "angel",
                  soundFile: "angel.m4a",
-                 sliderValue: $sliderValue)
+                 sliderValue: $sliderValue,
+                 isPlaying: .constant(true))
     }
 }
