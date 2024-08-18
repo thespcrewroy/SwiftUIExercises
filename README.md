@@ -30,8 +30,6 @@
 * [Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIMaps)
 ---
 ## Future (Over the Summer):
-* Add Readme to all homeworks/projects
-* Make videos for each project to add to the Readme
-* Look at other people's Readme + Readme of massive open-source projects
-    * Learn about good Readme style and techniques
-    * Learn about giving instructions to users on how they can run my code
+* Add Readme to all Projects
+* Make videos for each Project README
+* Finish all SwiftUI projects from NMIX4030 Website
