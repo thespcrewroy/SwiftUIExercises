@@ -3,6 +3,9 @@
 ## MiniProjects
 * [My First Content View](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/MyFirstContentView)
 * [Random Trivia API](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/RandomTriviaAPI)
+* [Jukebox](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/03.%20Jukebox)
+* [AuthFit](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/04.%20AuthFit)
+* [Tinder Swiping](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/05.%20TinderClone)
 ---
 ## Homeworks
 * [Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw01-text)
@@ -14,6 +17,7 @@
 * [PieChart](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw07-piechart)
 * [Lists](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw08-lists)
 * [Json](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw09-json)
+* [Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw10-maps)
 ---
 ## "Mastering SwiftUI" Excercises
 * [Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIText)
@@ -25,6 +29,8 @@
 * [State](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIState)
 * [Shapes](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIShapes)
 * [Animations](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIAnimations)
+* [Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/10.%20SwiftUIMaps)
+* [Lists](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/11.%20SwiftUILists)
 ---
 ## "Apple Developer" Excercises
 * [Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIMaps)
