@@ -33,7 +33,9 @@
 ## "Apple Developer" Excercises
 * **[Maps](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Practice/SwiftUIMaps)**
 ---
+```
 ## Future (Over the Summer):
 * Add Readme to all Projects
 * Make videos for each Project README
 * Finish all SwiftUI projects from NMIX4030 Website
+```
