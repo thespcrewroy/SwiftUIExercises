@@ -36,4 +36,6 @@
 * Add Readme to all Projects
 * Make videos for each Project README
 * Finish all SwiftUI projects from NMIX4030 Website
+* Create a better final project
+* Revamp my Medium article based off of my new better final project
 ```
