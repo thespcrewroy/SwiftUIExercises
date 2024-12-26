@@ -4,8 +4,6 @@
 * **[My First Content View](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/MyFirstContentView)**
 * **[Random Trivia API](https://github.com/thespcrewroy/SwiftUIProjects/tree/main/Projects/RandomTriviaAPI)**
 * **[Jukebox](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/03.%20Jukebox)**
-* **[AuthFit](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/04.%20AuthFit)**
-* **[Tinder Swiping](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Projects/05.%20TinderClone)**
 ---
 ## Homeworks
 * **[Text](https://github.com/thespcrewroy/SwiftUIExercises/tree/main/Homework/hw01-text)**
